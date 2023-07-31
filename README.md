@@ -1,6 +1,6 @@
 # Module 1 Problems
 
-Please choose 8 of the problems from our assignment page to complete.
+Please choose 6 of the problems from our assignment page to complete.
 
 ---
 
